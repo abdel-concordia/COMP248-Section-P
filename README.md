@@ -1,1 +1,3 @@
-# COMP248-Section-P
+Here, you will find all commits of the code discussed in class during COMP 248, Section P lectures. Feel free to fork and play around.
+
+IMPORTANT: if you find errors or bugs, please let me know so I can fix them. Thank you,
